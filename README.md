@@ -24,5 +24,5 @@ ParagraphBgColorTextView:paragraphBgColor 填写对应的颜色值
 
 # 效果图
       
-   <img src="./pic/shot.png" width = "310" height = "560" alt="Android DiffuseShadow ImageView" align=center />
+   <img src="./pic/screenshot.jpg" width = "310" height = "560" alt="Android DiffuseShadow ImageView" align=center />
       
