@@ -20,7 +20,6 @@ Android 弥散阴影的ImageView
         />
 ```
 
-ParagraphBgColorTextView:paragraphBgColor 填写对应的颜色值
 
 # 效果图
       
